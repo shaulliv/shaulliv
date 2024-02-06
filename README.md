@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaulliv
-- 👀 I’m interested in ... Avaya,Linux
-- 🌱 I’m currently learning ... AWS,Kubernetes
+- 👀 I’m interested in ... Avaya,Linux,Docker
+- 🌱 I’m currently learning ... NixOS,Traefik
 - 📫 How to reach me ... shaul@shaulliv.com
 
 <!---
