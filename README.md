@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaulliv
-- 👀 I’m interested in ... Avaya,Linux,Docker
-- 🌱 I’m currently learning ... NixOS,Traefik
-- 📫 How to reach me ... shaul@shaulliv.com
+- 👀 I’m interested in ... Avaya,Linux,Docker,Genesys
+- 🌱 I’m currently learning ... Genesys CX
+- 📫 How to reach me ... shaulliv@shaulliv.com
 
 <!---
 shaulliv/shaulliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
